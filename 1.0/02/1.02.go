@@ -9,5 +9,5 @@ func main() {
 	d := (2 != 2)
 	e := (3 < 2)
 	f := (3 > 2)
-	fmt.Println(a, b, c, d, e, f)
+	fmt.Println(a, b, c, d, e)
 }
